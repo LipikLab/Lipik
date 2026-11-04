@@ -20,7 +20,7 @@
 
 ## Install
 
-1. Download **Lipik-Keyboard.apk** from the **[latest Release](https://github.com/hmjoy17/Lipik/releases/latest)**
+1. Download **Lipik-Keyboard.apk** from the **[latest Release](https://github.com/LipikLab/Lipik/releases/latest)**
 2. Install the APK (allow "install unknown apps" if Android asks)
 3. Open your phone's **Settings → System → Languages & input → On-screen keyboard** and enable **Lipik**
 4. Open any app, bring up the keyboard, and switch to Lipik
